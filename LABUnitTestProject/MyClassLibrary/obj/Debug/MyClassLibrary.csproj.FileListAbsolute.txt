@@ -1,0 +1,6 @@
+E:\โปรเจก\oop\LABUnitTestProject\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+E:\โปรเจก\oop\LABUnitTestProject\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+E:\โปรเจก\oop\LABUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
+E:\โปรเจก\oop\LABUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+E:\โปรเจก\oop\LABUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+E:\โปรเจก\oop\LABUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
